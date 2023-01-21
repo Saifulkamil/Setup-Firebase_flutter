@@ -18,11 +18,11 @@
 
         https://firebase.google.com/docs/flutter/setup?platform=android
    
-   2.1 klik buka Console atas kanan layar
-   2.2 klik add project
-   2.3 masukan nama project
-   2.4 hilangkan centang google analytict
-   2.5 create project
+   * klik buka Console atas kanan layar
+   * klik add project
+   * masukan nama project
+   * hilangkan centang google analytict
+   * create project
   
         
 3. mengintergrasikan project flutter di vscode dan project firebase
